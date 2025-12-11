@@ -1,7 +1,7 @@
 {
       "name": "Responsive Portfolio Website",
       "version": "0.1.0",
-      "homepage": "https://IngeWest.github.io/portfolio-website/",
+      "homepage": "https://ingewesterhoff.github.io/portfolio-web/",
       "private": true,
       "dependencies": {
             "@radix-ui/react-accordion": "^1.2.3",
